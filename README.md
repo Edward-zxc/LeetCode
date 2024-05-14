@@ -1,2 +1,2 @@
 # LeetCode
-C Description
+C and Java 
